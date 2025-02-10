@@ -1,0 +1,9 @@
+# F# to JS compiled files in namespace Cree.Toolchain.API.BuildingGeometry:
+
+*.js
+*.ts
+bin
+obj
+
+
+
