@@ -12,8 +12,12 @@ to observe
 Compilation failed
 ```
 
+
 with
-fable 5.0-alpha8
+`fable 5.0-alpha8`
 
 in
-fable 5.0-alpha7 it works fine
+`fable 5.0-alpha7` it works fine
+
+
+see https://github.com/fable-compiler/Fable/issues/4040
